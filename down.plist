@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mojang.minecraftpe.ios8fix</string>
+                <string>com.mojang.minecraftpe</string>
                 <key>bundle-version</key>
                 <string>1.10.0</string>
                 <key>kind</key>
