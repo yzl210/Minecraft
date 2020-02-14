@@ -9,33 +9,17 @@
             <array>
                 <dict>
                     <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>http://3s.net579.com:27879/files/512.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>http://3s.net579.com:27879/files/57.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://3s.net579.com:27879/files/Minecraft 1.10.0.ipa</string>
+                    <string>http://www.leomc.xyz/download/MCBE/1.14.1.4.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mojang.minecraftpe.ios8fix</string>
+                <string>com.mojang.minecraftpe</string>
                 <key>bundle-version</key>
-                <string>1.10.0</string>
+                <string>1.14.1.4</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
